@@ -14,3 +14,10 @@ img{
     display: block;
     margin: auto;
 }
+
+p{
+    font-family: 'Instrument Sans', sans-serif;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
